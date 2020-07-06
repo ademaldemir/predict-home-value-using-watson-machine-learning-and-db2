@@ -225,4 +225,6 @@ This code pattern is licensed under the Apache License, Version 2. Separate thir
 
 [Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
 
+##
+
 presented by: [**Adem Aldemir**](https://www.linkedin.com/in/ademaldemir/)
