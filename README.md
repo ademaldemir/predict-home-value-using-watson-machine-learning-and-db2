@@ -172,7 +172,7 @@ We have finally created our Watson Studio service. Within that, created a projec
 
 * Fill out the notebook details
 * Select `From URL` option from the tab and paste the following link to Notebook URL field:
-`https://raw.githubusercontent.com/IBM/predict-home-value-using-watson-machine-learning-and-db2/master/notebooks/WML%20DB2.ipynb`
+`https://raw.githubusercontent.com/ademaldemir/predict-home-value-using-watson-machine-learning-and-db2/master/notebooks/WML%20DB2_zero.ipynb`
 
 Before we run the notebook, we need to create `Watson Machine Learning` instance so that we can deploy the model to Watson Machine Learning on IBM Cloud. Here are the steps:
 
@@ -200,7 +200,7 @@ Then, run all the cells. At the end of the run the model will be deployed using 
 
 * Run the code from the github URL:
 
-`https://github.com/IBM/crud-using-nodejs-and-db2`
+`https://github.com/ademaldemir/crud-using-nodejs-and-db2`
 
 * Replace the value of `GO_DB2_API: 'https://<url>',` in `src/enviornments/enviornment.ts` with the API URL of your go server whcih would be `http://localhost:8080/predict`
 
