@@ -29,7 +29,7 @@ This code pattern will demonstrate a data scientist's journey in creating a mach
 Before we start anything, we need to clone the repo. The repo has our dataset and python notebook which we will use when creating our model.
 
 ```bash
-git clone https://github.com/IBM/predict-home-value-using-watson-machine-learning-and-db2.git
+git clone https://github.com/ademaldemir/predict-home-value-using-watson-machine-learning-and-db2.git
 ```
 
 ### 2. Create an IBM Cloud account
