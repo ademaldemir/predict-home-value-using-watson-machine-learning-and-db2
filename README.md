@@ -1,6 +1,8 @@
 # Use IBM Watson Studio and Db2 On Cloud to create a machine learning model to predict home value
 
-## 🚀 This project has been explained to the community via webinar. Follow the link to reach the event video and presentation. ### https://ibm.ent.box.com/s/g7nkwbxq6kyklulkkh72kfbeurduojqd
+## 🚀 This project has been explained to the community via webinar. Follow the link to reach the event video and presentation.
+
+### https://ibm.ent.box.com/s/g7nkwbxq6kyklulkkh72kfbeurduojqd
 
 Data keeps on growing and extracting meaningful information out of that data is very important. Using machine learning models from the existing data helps a company to not only extract meaningful insights but also predict future results.
 
